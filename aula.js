@@ -13,7 +13,7 @@ if(valorSaque <= saldoDisponivel) {
 
     console.log('Seu novo saldo é de', saldoDisponivel);
     
-    console.log('Obrigado pela preferencia');
+    console.log('Obrigado');
 } else {
-    alert('Tu nao tem dinheiro rapá.');
+    alert('Não tem toda essa grana meu querido');
 }
